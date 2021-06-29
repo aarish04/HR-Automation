@@ -1,0 +1,74 @@
+.employeeGrid
+{
+height:30vh;
+margin-left:5px;
+margin-right:5px;
+margin-bottom:px;
+margin-top:5px;
+padding:5px;
+border:1px solid black;
+overflow:scroll;
+}
+.employeeGridHeader
+{
+text-align:right;
+padding:5px;
+}
+.employeeGridSNOColumnTitle
+{
+font-family:Trebuchet MS;
+width:60px;
+text-align:center;
+}
+.employeeGridIdColumnTitle
+{
+font-family:Trebuchet MS;
+width:200px;
+text-align:center;
+}
+.employeeGridNameColumnTitle
+{
+font-family:Trebuchet MS;
+width:200px;
+text-align:center;
+}
+.employeeGridDesignationColumnTitle
+{
+font-family:Trebuchet MS;
+width:200px;
+text-align:center;
+}
+
+.employeeGridEditOptionColumnTitle
+{
+font-family:Trebuchet MS;
+width:100px;
+text-align:center;
+}
+
+.employeeGridDeleteOptionColumnTitle
+{
+font-family:Trebuchet MS;
+width:100px;
+text-align:center;
+}
+.employeeHeader
+{
+text-align:center;
+font-family:Trebuchet MS;
+}
+.employeeGridAddEmployeeOptionColumnTitle
+{
+text-decoration: none;
+border-bottom: 1px solid #6666FF;
+font-family:Trebuchet MS;
+}
+.employeesTableContent
+{
+text-align:center;
+font-family:Trebuchet MS;
+}
+.font
+{
+font-family:Trebuchet MS;
+}
